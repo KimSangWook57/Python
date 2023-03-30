@@ -5,5 +5,7 @@
 + 2023.03.07 : 파이썬 리스트 정리.
 + 2023.03.09 : 파이썬 함수 공부.
 + 2023.03.23 : 파일 입출력과 정규표현식 공부.
++ 2023.03.27 : numpy와 pandas 사용법 공부.
 
 + 정규표현식 확인 사이트 : https://regexr.com/
++ 서울시 일별 평균 대기오염도 정보 사이트 : https://data.seoul.go.kr/dataList/OA-2218/A/1/datasetView.do
